@@ -1,0 +1,125 @@
+{
+    "abonnents": [
+      {
+        "id": 1,
+        "phoneNumber": "+1234567890",
+        "lastName": "Иванов",
+        "firstName": "Иван"
+      },
+      {
+        "id": 2,
+        "phoneNumber": "+1122334455",
+        "lastName": "Петров",
+        "firstName": "Петр"
+      },
+      {
+        "id": 3,
+        "phoneNumber": "+2345678902",
+        "lastName": "Сидоров",
+        "firstName": "Сидор"
+      },
+      {
+        "id": 4,
+        "phoneNumber": "+3456789013",
+        "lastName": "Кузнецов",
+        "firstName": "Алексей"
+      },
+      {
+        "id": 5,
+        "phoneNumber": "+4567890124",
+        "lastName": "Ковалев",
+        "firstName": "Антон"
+      },
+      {
+        "id": 6,
+        "phoneNumber": "+5678901235",
+        "lastName": "Федоров",
+        "firstName": "Дмитрий"
+      },
+      {
+        "id": 7,
+        "phoneNumber": "+6789012346",
+        "lastName": "Александров",
+        "firstName": "Александр"
+      },
+      {
+        "id": 8,
+        "phoneNumber": "+7890123457",
+        "lastName": "Николаев",
+        "firstName": "Николай"
+      },
+      {
+        "id": 9,
+        "phoneNumber": "+8901234568",
+        "lastName": "Григорьев",
+        "firstName": "Григорий"
+      },
+      {
+        "id": 10,
+        "phoneNumber": "+9012345679",
+        "lastName": "Семенов",
+        "firstName": "Семен"
+      },
+      {
+        "id": 11,
+        "phoneNumber": "+0123456780",
+        "lastName": "Михайлов",
+        "firstName": "Михаил"
+      },
+      {
+        "id": 12,
+        "phoneNumber": "+1234567891",
+        "lastName": "Лебедев",
+        "firstName": "Андрей"
+      },
+      {
+        "id": 13,
+        "phoneNumber": "+2345678903",
+        "lastName": "Павлов",
+        "firstName": "Станислав"
+      },
+      {
+        "id": 14,
+        "phoneNumber": "+3456789014",
+        "lastName": "Тихонов",
+        "firstName": "Олег"
+      },
+      {
+        "id": 15,
+        "phoneNumber": "+4567890125",
+        "lastName": "Сергеев",
+        "firstName": "Сергей"
+      },
+      {
+        "id": 16,
+        "phoneNumber": "+5678901236",
+        "lastName": "Васильев",
+        "firstName": "Павел"
+      },
+      {
+        "id": 17,
+        "phoneNumber": "+6789012347",
+        "lastName": "Ильиных",
+        "firstName": "Илья"
+      },
+      {
+        "id": 18,
+        "phoneNumber": "+7890123458",
+        "lastName": "Соловьев",
+        "firstName": "Артем"
+      },
+      {
+        "id": 19,
+        "phoneNumber": "+8901234569",
+        "lastName": "Романов",
+        "firstName": "Максим"
+      },
+      {
+        "id": 20,
+        "phoneNumber": "+9012345670",
+        "lastName": "Петрова",
+        "firstName": "Елена"
+      }
+    ]
+  }
+  
